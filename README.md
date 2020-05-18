@@ -11,3 +11,9 @@
 ### step two:
 
 ###### insert your friends that will be commented in the friends.js file in the friends array
+![entering friends to array](https://github.com/DanielSoaresRocha/instagran-automatic-comments/blob/master/gif2.gif)
+
+### step three 
+
+###### save your changes and type in the console: node index.js
+
