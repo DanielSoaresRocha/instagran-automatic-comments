@@ -1,6 +1,10 @@
 # instagran-automatic-comments
  A bot to generate comments automatically, marking two friends per comment in any publication of instagran.
  
+# requirements:
+- You need to install selenium webdriver and add chrome to the system path.
+more information at: https://help.crossbrowsertesting.com/selenium-testing/getting-started/javascript/
+
 # how to use:
 ### step one:
 
